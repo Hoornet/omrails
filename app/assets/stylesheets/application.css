@@ -11,3 +11,13 @@
  *= require_self
  *= require_tree .
  */
+
+@import "bootstrap";
+@import "font-awesome";
+
+// Actual app css
+@import "beaker";
+@import "sidebar";
+@import "footer";
+@import "install_steps";
+
